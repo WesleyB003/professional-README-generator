@@ -5,7 +5,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Guidelines](#guidelines)
-* [Demonstration](#demonstration)
 * [Questions](#questions)
 
 ## Description 
