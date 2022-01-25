@@ -6,6 +6,7 @@
 * [Usage](#usage)
 * [Guidelines](#guidelines)
 * [Questions](#questions)
+* [Video](#Video)
 
 ## Description 
 
@@ -71,4 +72,10 @@ Not sure what to input for a certain section? Follow the guidelines outlined bel
 Have any questions about this project? Reach out!  
  
 Email: wabryant97@gmail.com
+
+## Video
+
+Please watch to see how it all works!
+
+https://watch.screencastify.com/v/hAp5L1OSMzuKfzCzNzeN
 
